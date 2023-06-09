@@ -2,7 +2,6 @@ import type { Options } from 'tsup';
 import { defineConfig } from 'tsup';
 import { esbuildPluginVersionInjector } from 'esbuild-plugin-version-injector';
 
-
 function createTsupConfig({
 	entry = ['src/index.ts'],
 	external = [],

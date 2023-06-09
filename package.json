@@ -1,5 +1,5 @@
 {
-	"name": "@discordjs/rest",
+	"name": "@miq4d/rest",
 	"version": "1.7.1",
 	"description": "The REST API for discord.js",
 	"scripts": {
